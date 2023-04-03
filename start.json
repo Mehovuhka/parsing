@@ -1,0 +1,2663 @@
+[
+  [
+    {
+      "_id": "5f7ca7ad32faec2e0937e6d6",
+      "_cls": "Product.Series",
+      "alias": "passazhiry",
+      "uid": "0b187768-d56d-4850-9a59-420a72e4e57b",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/0b187768-d56d-4850-9a59-420a72e4e57b",
+      "download_options": "/download/options/series/0b187768-d56d-4850-9a59-420a72e4e57b",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1431131",
+      "rating_age": "18+",
+      "rating_kp": 7.3,
+      "rating_imdb": 7.2,
+      "rating_start": 8.6,
+      "release_date": 1601990408000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/passazhiry",
+      "slug": "/series/passazhiry",
+      "web_url": "https://start.ru/watch/passazhiry",
+      "video_cover": "/stream/cover/series/0b187768-d56d-4850-9a59-420a72e4e57b/cover.m3u8",
+      "trailer_src": "/stream/series/0b187768-d56d-4850-9a59-420a72e4e57b/trailer.m3u8",
+      "badges": [
+        {
+          "id": "1a8d017e-753e-48d2-956b-8676b6ea5913",
+          "alias": "start-serial_pod_logo_a4a166c6-d471-445e-a009-a479b007429b",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Мистика",
+          "url": "/web/genres/mystic",
+          "slug": "/genres/mystic"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "Пассажиры",
+      "subtitle": null,
+      "quote": "Даже смерть не разлучит их. Аня Чиповская и Сергей Гилёв в новом сезоне сериала «Пассажиры»",
+      "description": "Кирилл — новый водитель необычного такси, стать клиентом которого непросто, ведь сначала нужно… умереть. Герой должен научиться чуткости и эмпатии, чтобы помочь душам, застрявшим на этом свете, добраться до «точки перехода» и понять, что их удерживает на Земле. Помогать в «перевозке душ» Кириллу будет пассажирка Мэри, которая тоже застряла между двумя мирами. Есть ли у героев шанс исправить ошибки прошлого и куда приведут их отношения?",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/6f05827cf0fe4becb37513563b6194c1/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/376244e96dd4489abcfa93a7fd6b9ae2/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/2eb0f2ecb41d4260bedf7f08d7543421/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/3f0e39e85ec24a048a553fa9a9bdc5e0/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/5456acae1e874573af9a42fd3205c1a9/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/a7374610f41148f8adb8716acc8ec62d/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/d5cb987a352d4083813d5876c0d0a4af/horizontal_15x"
+      }
+    },
+    {
+      "_id": "5b3a6d7c742be4002d4e0349",
+      "_cls": "Product.Series",
+      "alias": "grand",
+      "uid": "e836d4fa-18d2-4554-a932-28396cd62eb5",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/e836d4fa-18d2-4554-a932-28396cd62eb5",
+      "download_options": "/download/options/series/e836d4fa-18d2-4554-a932-28396cd62eb5",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1171652",
+      "rating_age": "16+",
+      "rating_kp": 7,
+      "rating_imdb": 7.4,
+      "rating_start": 8.6,
+      "release_date": 1530544966000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/grand",
+      "slug": "/series/grand",
+      "web_url": "https://start.ru/watch/grand",
+      "video_cover": "/stream/cover/series/e836d4fa-18d2-4554-a932-28396cd62eb5/cover.m3u8",
+      "trailer_src": "/stream/series/e836d4fa-18d2-4554-a932-28396cd62eb5/trailer.m3u8",
+      "badges": [
+        {
+          "id": "383a17b3-4005-497d-a3f6-68c9817400d0",
+          "alias": "start-serial_pod_logo_c213f315-3c8d-465e-b983-3ea4971f361e",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Гранд",
+      "subtitle": null,
+      "quote": "Комедийная киносага о жизни загородного эко-отеля",
+      "description": "«Гранд» ждут большие перемены. Ксюша оставляет кресло генерального менеджера и улетает на Мальдивы. Сможет ли она сохранить с Юрой отношения на расстоянии — большой вопрос. Особенно когда рядом с одним из героев оказывается кое-кто из прошлого. Лев Глебович наконец узнаёт о терзавшем его долгие годы недуге, ищет любовь всей жизни и находит её... дважды.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/07dcb96d299c4980b0bb5916f5722c25/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/6d3cfd9a415f46af96bdacbea945aa35/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/5ff7a0a1225f425087e0fb504cb28653/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/6070743c02ec40fcb0ac363b43dc6d29/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(16.png,15,-0,0,15,15)/81900bf01aad4c33aeb807552d43b3d7/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/9446210f3b8d4c6d8009d685b1153914/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/afdae0bc6a224a20ba9d5f02c3b22f87/horizontal_15x"
+      }
+    },
+    {
+      "_id": "616da5339dd5e78bad557444",
+      "_cls": "Product.Series",
+      "alias": "kristina",
+      "uid": "550ce943-319d-4dd4-a984-446a0317a721",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/550ce943-319d-4dd4-a984-446a0317a721",
+      "download_options": "/download/options/series/550ce943-319d-4dd4-a984-446a0317a721",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4531399",
+      "rating_age": "18+",
+      "rating_kp": 5.7,
+      "rating_imdb": 6.2,
+      "rating_start": 6.8,
+      "release_date": 1634564341000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/kristina",
+      "slug": "/series/kristina",
+      "web_url": "https://start.ru/watch/kristina",
+      "video_cover": "/stream/cover/series/550ce943-319d-4dd4-a984-446a0317a721/cover.m3u8",
+      "trailer_src": "/stream/series/550ce943-319d-4dd4-a984-446a0317a721/trailer.m3u8",
+      "badges": [
+        {
+          "id": "aa025a06-d2e7-4923-8b3b-a272d2ce12c5",
+          "alias": "ekskljuziv_pod_logo_e9262d45-2417-4786-89f1-16b6c4962040",
+          "background_color": "#FF2800",
+          "background_color_right": "",
+          "image_1x": null,
+          "name": "эксклюзив под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "ЭКСКЛЮЗИВ",
+          "text_right": "",
+          "text_color": "#FFFFFF",
+          "text_color_right": "",
+          "type": "badge",
+          "under_logo_position": true
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "КрисТина",
+      "subtitle": null,
+      "quote": "Что ты сделаешь, узнав, что твою идеальную жизнь проживает кто-то другой? Оригинальный сериал START с Юлией Хлыниной в главной роли",
+      "description": "Крис работает продавцом в зоомагазине на окраине города, хотя когда-то мечтала стать ветеринаром. Девушка отказывается брать судьбу в свои руки и доверяет любой выбор монетке, подаренной отцом. Она строит большие планы на отпуск с парнем, но в первый же день всё летит к чертям. Крис встречает бывшего, а рядом с ним неожиданно видит другую версию себя — уверенную и успешную Тину, чья жизнь сложилась совсем иначе. Кто же из девушек — настоящая Кристина?",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/82fb28df197c4750b06c772f34e2a5a1/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/42c2d7262f2342d2a340916691ad2298/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/826ef5a3c5b34d71a60b70b61cae0867/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/6d826e4c58ee4ff2b3ee136a5e057409/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b043bd0f058c4b76b9d4d64974061566/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/436db7392f284fa58f91dfc1d2022f12/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/6ce96490903946dc9df85f6e9c160f1b/horizontal_15x"
+      }
+    },
+    {
+      "_id": "62037c30697b0fc870754a19",
+      "_cls": "Product.Series",
+      "alias": "smychok",
+      "uid": "bef83a46-4f8c-45f4-92fc-071e577f230a",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/bef83a46-4f8c-45f4-92fc-071e577f230a",
+      "download_options": "/download/options/series/bef83a46-4f8c-45f4-92fc-071e577f230a",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4559978",
+      "rating_age": "18+",
+      "rating_kp": 7.3,
+      "rating_imdb": 8.2,
+      "rating_start": 8.9,
+      "release_date": 1644382612000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/smychok",
+      "slug": "/series/smychok",
+      "web_url": "https://start.ru/watch/smychok",
+      "video_cover": "/stream/cover/series/bef83a46-4f8c-45f4-92fc-071e577f230a/cover.m3u8",
+      "trailer_src": "/stream/series/bef83a46-4f8c-45f4-92fc-071e577f230a/trailer.m3u8",
+      "badges": [
+        {
+          "id": "8247f86c-fe68-41e7-9db3-b2861e8ded2c",
+          "alias": "start-serial_pod_logo_73d3a110-36e8-47d1-afa3-f4c98c28f4c8",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Молодежные",
+          "url": "/web/genres/youth",
+          "slug": "/genres/youth"
+        }
+      ],
+      "title": "Смычок",
+      "subtitle": null,
+      "quote": "Ни грамма фальши. Талантливый скрипач втянут в опасную игру. Оригинальный сериал START с молодыми звездами кино",
+      "description": "Страсть Сени — классическая музыка. Он хочет посвятить всего себя скрипке, осталось только поступить в консерваторию в Питере. В реальности все оказывается иначе: ему подбрасывают сверток с запрещенными веществами и делают кладменом. С этих пор Сеня — «Смычок», которого ждут легкие деньги и новые знакомства. Или парень потеряет все, включая шанс стать великим музыкантом? ",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/538fb0c23f8c4b8b86873fa09e4d990f/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/77c67688a2af4886af8b74e39d16822f/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/fdab3918633b425396fcf774b283afdb/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/b7d0729e1e2547e893bba2d945a423c5/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/99296de4867e4465bc063a6c1ef5715d/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/1c63e436ed5a45c8ada5b6ba60498ddc/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b16a888dd737403086dcac3147af38ff/horizontal_15x"
+      }
+    },
+    {
+      "_id": "617ac8b60cec199de6833d4b",
+      "_cls": "Product.Series",
+      "alias": "zhena-oligarha",
+      "uid": "9775987c-989f-4089-ae06-1b825860956c",
+      "year": 2023,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/9775987c-989f-4089-ae06-1b825860956c",
+      "download_options": "/download/options/series/9775987c-989f-4089-ae06-1b825860956c",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": false,
+      "kinopoisk_id": "4313093",
+      "rating_age": "16+",
+      "rating_kp": 7.4,
+      "rating_imdb": 6,
+      "rating_start": 8.2,
+      "release_date": 1635424795000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/zhena-oligarha",
+      "slug": "/series/zhena-oligarha",
+      "web_url": "https://start.ru/watch/zhena-oligarha",
+      "video_cover": "/stream/cover/series/9775987c-989f-4089-ae06-1b825860956c/cover.m3u8",
+      "trailer_src": "/stream/series/9775987c-989f-4089-ae06-1b825860956c/trailer.m3u8",
+      "badges": [],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Жена олигарха",
+      "subtitle": null,
+      "quote": "Брендовая сумочка в одной руке, власть — в другой? Экс-миллионерша рвется в мэры Добруйска в новом сезоне комедии с Еленой Подкаминской",
+      "description": "После неожиданного исчезновения мужа-олигарха Альбина должна позабыть о роскошной жизни в Лондоне. Вместе с детьми, которые никогда не бывали в России, она возвращается на родину и учится жить с пустым кошельком. Добавит хлопот и доставшийся ей завод в маленьком городке за Уралом. Выясняется, что предприятие на грани банкротства, а местные жители высокомерной экс-миллионерше совсем не рады.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/176d474f57574ff199101c235f23f81a/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/2ae897f475bb4754a735849d8c47d1db/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/35d5851e24054abc8c160047b5e38455/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/b962bc488e9945bda8522ffff451fa4d/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(16.png,15,-0,0,15,15)/758ddb63a41c485db4dd7c039cad309a/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/bb329ebf508c46a0b5b7b7265b1ceefb/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/c016b1e7fe444b2999afc7153a687739/horizontal_15x"
+      }
+    },
+    {
+      "_id": "58d4ebbf8edece34d0de2459",
+      "_cls": "Product.Series",
+      "alias": "korabl",
+      "uid": "ffa79b46-eceb-3d7b-adc1-8f43200f7221",
+      "year": 2015,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/ffa79b46-eceb-3d7b-adc1-8f43200f7221",
+      "download_options": "/download/options/series/ffa79b46-eceb-3d7b-adc1-8f43200f7221",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "761875",
+      "rating_age": "16+",
+      "rating_kp": 8,
+      "rating_imdb": 5.8,
+      "rating_start": 8.7,
+      "release_date": 1490608284000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/korabl",
+      "slug": "/series/korabl",
+      "web_url": "https://start.ru/watch/korabl",
+      "video_cover": "/stream/cover/series/ffa79b46-eceb-3d7b-adc1-8f43200f7221/cover.m3u8",
+      "trailer_src": "/stream/series/ffa79b46-eceb-3d7b-adc1-8f43200f7221/trailer.m3u8",
+      "badges": [],
+      "genres": [
+        {
+          "title": "Мелодрама",
+          "url": "/web/genres/melodrama",
+          "slug": "/genres/melodrama"
+        },
+        {
+          "title": "Приключения",
+          "url": "/web/genres/adventure",
+          "slug": "/genres/adventure"
+        },
+        {
+          "title": "Фантастика",
+          "url": "/web/genres/scifi",
+          "slug": "/genres/scifi"
+        }
+      ],
+      "title": "Корабль",
+      "subtitle": null,
+      "quote": "Российская адаптация известного испанского телесериала «Ковчег»",
+      "description": "Сериал на постапокалиптическую тему, адаптация испанского аналога под названием «Ковчег». Сюжет повествует об экипаже учебного судна, который выходит в море и попадает в сильный шторм. На Земле происходит техногенная катастрофа, суши больше нет. Теперь выжившие должны дать отпор стихии и друг другу.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/3f31436b6910461280fb4f4efc542c80/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/3f31436b6910461280fb4f4efc542c80/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": "/images/unsafe/280x172/filters:quality(70)/d19da737ad08422daae5d4c8fad6b897",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/0a3ca115c2aa4533a8a46f2de9cbf6d7/images-packshot_15x"
+      },
+      "thumbnail": {
+        "image_1x": "/images/unsafe/180x100/filters:quality(70)/fadfda5c649d444f9f323c7c3ca2e667",
+        "image_15x": null
+      },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/ff08226b6b6b41cbb3a1e60deadaba6e/images-logotype_15x"
+      },
+      "vertical": {
+        "image_1x": "/images/unsafe/290x450/filters:quality(70):watermark(16.png,15,-0,0,15,15)/4f88484788804e4d97f6b3788bdce03d",
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(16.png,15,-0,0,15,15)/143163154ddc43c6b927527f09ec6091/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/0a3ca115c2aa4533a8a46f2de9cbf6d7/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/0a3ca115c2aa4533a8a46f2de9cbf6d7/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "61814c0697282ac6d68ca8f7",
+      "_cls": "Product.Series",
+      "alias": "sahar",
+      "uid": "aa3c83f0-158b-445e-a4e2-630eeabd9a1a",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/aa3c83f0-158b-445e-a4e2-630eeabd9a1a",
+      "download_options": "/download/options/series/aa3c83f0-158b-445e-a4e2-630eeabd9a1a",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": false,
+      "kinopoisk_id": "4523939",
+      "rating_age": "18+",
+      "rating_kp": 8,
+      "rating_imdb": 8.4,
+      "rating_start": 8.8,
+      "release_date": 1635852058000,
+      "quote_source": null,
+      "title_original": "Sheker",
+      "url": "/web/series/sahar",
+      "slug": "/series/sahar",
+      "web_url": "https://start.ru/watch/sahar",
+      "video_cover": "/stream/cover/series/aa3c83f0-158b-445e-a4e2-630eeabd9a1a/cover.m3u8",
+      "trailer_src": "/stream/series/aa3c83f0-158b-445e-a4e2-630eeabd9a1a/trailer.m3u8",
+      "badges": [
+        {
+          "id": "6fe5edba-2750-4a04-8b6c-f74ea684e82d",
+          "alias": "ekskljuziv_pod_logo_9bd5b38d-320d-4ab1-8140-6ecd72a0ac1b",
+          "background_color": "#FF2800",
+          "background_color_right": "",
+          "image_1x": null,
+          "name": "эксклюзив под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "ЭКСКЛЮЗИВ",
+          "text_right": "",
+          "text_color": "#FFFFFF",
+          "text_color_right": "",
+          "type": "badge",
+          "under_logo_position": true
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Криминал",
+          "url": "/web/genres/criminal",
+          "slug": "/genres/criminal"
+        },
+        {
+          "title": "Молодежные",
+          "url": "/web/genres/youth",
+          "slug": "/genres/youth"
+        }
+      ],
+      "title": "Sheker. Сахар",
+      "subtitle": null,
+      "quote": "Драйв, насилие и синтетическая бездна во взрывном молодёжном хите из Казахстана",
+      "description": "Сериал вошел в конкурсную программу фестиваля Canneseries в Каннах и стал первым казахстанским проектом, удостоенным престижной премии Asia Contents Awards. Второкурсник Алдияр узнает, что его отчисляют из университета. Чтобы этого избежать, он должен за короткий срок найти большую сумму денег на восстановление. Под страхом того, что об этом может узнать его строгий отец, парень устраивается на работу курьером магазина «синтетики». Алдияр входит во вкус, забывая о своей цели. С появлением денег на него обращает внимание девушка мечты, а еще — нечестный полицейский. Предупреждение: происходящее в сериале не является пропагандой распространения и употребления наркотиков. Всё изображенное на экране — вымышлено.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/cab64f5d354643829f5dc8b9ab3a2687/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/cab64f5d354643829f5dc8b9ab3a2687/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/1c934de1365d4f53a38fade0ec06e43b/images-packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/bb9369e81d42418397b2231be3e98584/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/3785c279d0dd451f8708242d62d49386/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/1c934de1365d4f53a38fade0ec06e43b/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/1c934de1365d4f53a38fade0ec06e43b/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "5cb0b42005563d003e7b32ee",
+      "_cls": "Product.Series",
+      "alias": "v-kletke",
+      "uid": "661ec9f1-33d5-428d-9dc1-33d5de599661",
+      "year": 2019,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/661ec9f1-33d5-428d-9dc1-33d5de599661",
+      "download_options": "/download/options/series/661ec9f1-33d5-428d-9dc1-33d5de599661",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": false,
+      "kinopoisk_id": "1195650",
+      "rating_age": "18+",
+      "rating_kp": 6.7,
+      "rating_imdb": 5.4,
+      "rating_start": 8.3,
+      "release_date": 1555073412000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/v-kletke",
+      "slug": "/series/v-kletke",
+      "web_url": "https://start.ru/watch/v-kletke",
+      "video_cover": "/stream/cover/series/661ec9f1-33d5-428d-9dc1-33d5de599661/cover.m3u8",
+      "trailer_src": "/stream/series/661ec9f1-33d5-428d-9dc1-33d5de599661/trailer.m3u8",
+      "badges": [
+        {
+          "id": "3420bab3-b92e-4c04-b191-7120624759ea",
+          "alias": "start-serial_pod_logo_304cb449-b3e2-4a9f-b2c8-681ea8372349",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Криминал",
+          "url": "/web/genres/criminal",
+          "slug": "/genres/criminal"
+        },
+        {
+          "title": "Спорт",
+          "url": "/web/genres/sport",
+          "slug": "/genres/sport"
+        }
+      ],
+      "title": "В клетке",
+      "subtitle": null,
+      "quote": "Спорт без правил и любовь без иллюзий. Провокационный сериал с Павлом Прилучным, Агатой Муцениеце и Владимиром Епифанцевым",
+      "description": "Отец и сын Евдокимовы возвращаются в Калининград. Александр бежит от проблем в Москве, Сергею по кличке «Волчок» отступать некуда — отсидев срок за наркотики, боец начинает жизнь заново. Жизнь без иллюзий и спорт без правил. Продюсерами сериала «В клетке» выступили Теймур Джафаров, Павел Прилучный и Екатерина Сычёва.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/7757b4130d2f4347bf4070b2f517d415/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/7757b4130d2f4347bf4070b2f517d415/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/dc8609f7290b40678ea3875f62f1206e/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/735b62d875cd4724b0d8c77bd2401076/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/90926435ed174c2385291ee86a2865af/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/a6766fe47569437db8ed7340764d61d0/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/21c169cf4be7424d86e9a59ea920382d/horizontal_15x"
+      }
+    },
+    {
+      "_id": "61b9e1d440fe3b4c4399ee53",
+      "_cls": "Product.Series",
+      "alias": "dva-holma",
+      "uid": "112116ae-3528-4d04-b056-4dd03a6c7fe6",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/112116ae-3528-4d04-b056-4dd03a6c7fe6",
+      "download_options": "/download/options/series/112116ae-3528-4d04-b056-4dd03a6c7fe6",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4531254",
+      "rating_age": "18+",
+      "rating_kp": 7.4,
+      "rating_imdb": 6.6,
+      "rating_start": 8.4,
+      "release_date": 1639561106000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/dva-holma",
+      "slug": "/series/dva-holma",
+      "web_url": "https://start.ru/watch/dva-holma",
+      "video_cover": "/stream/cover/series/112116ae-3528-4d04-b056-4dd03a6c7fe6/cover.m3u8",
+      "trailer_src": "/stream/series/112116ae-3528-4d04-b056-4dd03a6c7fe6/trailer.m3u8",
+      "badges": [
+        {
+          "id": "e01b24b0-c26a-448a-86f8-fd4e93a783ec",
+          "alias": "start-serial_pod_logo_78e4fbe8-9e17-455f-8fca-6dcc1cd75949",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        },
+        {
+          "id": "7c0995ce-d63e-49cd-857c-2bd8e208d094",
+          "alias": "novye_serii_skoro_pod_posterom_001b704b-c55d-495a-93cb-41764345f588",
+          "background_color": "#FF2800",
+          "background_color_right": "#F2F2F2",
+          "image_1x": null,
+          "name": "новые серии скоро под постером",
+          "size": "small",
+          "structure": "double",
+          "text": "НОВЫЕ СЕРИИ",
+          "text_right": "СКОРО",
+          "text_color": "#FFFFFF",
+          "text_color_right": "#14161A",
+          "type": "badge",
+          "under_logo_position": false
+        },
+        {
+          "id": "2f943046-1e02-44e5-bc56-94213e571109",
+          "alias": "novye_serii_skoro_pod_logo_1f33003c-43a1-4e7c-a558-00299abe9378",
+          "background_color": "#FF2800",
+          "background_color_right": "#F2F2F2",
+          "image_1x": null,
+          "name": "новые серии скоро под лого",
+          "size": "medium",
+          "structure": "double",
+          "text": "НОВЫЕ СЕРИИ",
+          "text_right": "СКОРО",
+          "text_color": "#FFFFFF",
+          "text_color_right": "#14161A",
+          "type": "badge",
+          "under_logo_position": true
+        }
+      ],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Два холма",
+      "subtitle": null,
+      "quote": "Первый матриархальный сериал. Женщины построили идеальный мир будущего, но что делать с дикарями-мужчинами?",
+      "description": "2140 год. Страшный вирус выкосил 99,9% мужского населения планеты. Теперь почти все женщины Земли живут в высокотехнологичных эко-поселениях в отдалении от крупных городов. А выжившие мужчины вынуждены или деградировать, живя на остатках былой цивилизации, или стать «содержанками», которые нужны женщинам для продолжения рода.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/4f17b6fe80084f67915746eb6cba392a/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/ad622f59f8b945f68df59967a2170f3f/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/93ef60d4d9ea436ba2c82d2239c827ad/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/21e8c4fbb21149719c54ee58e7d5f023/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/405605bc50e44847b5b8f121586aca01/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/3ab85be7f8a94173a996ddbe842f4249/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/44636df2c1b1453dab1238147c381a69/horizontal_15x"
+      }
+    },
+    {
+      "_id": "5f01bfed19a6ccbd101c7ac5",
+      "_cls": "Product.Series",
+      "alias": "kiberstalker",
+      "uid": "8e6f268a-0e18-402c-8e47-08905f8b3916",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/8e6f268a-0e18-402c-8e47-08905f8b3916",
+      "download_options": "/download/options/series/8e6f268a-0e18-402c-8e47-08905f8b3916",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1254840",
+      "rating_age": "18+",
+      "rating_kp": 7.2,
+      "rating_imdb": 7.2,
+      "rating_start": 9.1,
+      "release_date": 1593939312000,
+      "quote_source": null,
+      "title_original": "Stalk",
+      "url": "/web/series/kiberstalker",
+      "slug": "/series/kiberstalker",
+      "web_url": "https://start.ru/watch/kiberstalker",
+      "video_cover": "/stream/cover/series/8e6f268a-0e18-402c-8e47-08905f8b3916/cover.m3u8",
+      "trailer_src": "/stream/series/8e6f268a-0e18-402c-8e47-08905f8b3916/trailer.m3u8",
+      "badges": [],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Молодежные",
+          "url": "/web/genres/youth",
+          "slug": "/genres/youth"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "Киберсталкер",
+      "subtitle": null,
+      "quote": "Этот сериал о подростках навсегда изменит ваше отношение к цифровой приватности",
+      "description": "Сталкинг — это оружие, и одарённый гик Люкс умеет с ним обращаться. После унижения со стороны популярных ребят он быстро превращается из жертвы в охотника и готовится нанести первый удар. Люкс получает доступ к гаджетам обидчиков и затевает опасную игру, из которой не выйти победителем никому.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/060e63c118d6482ba1c60aa1d034b2b3/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/060e63c118d6482ba1c60aa1d034b2b3/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/ed4f6538d5a74cbe8853d4f1a8016cbd/images-packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/2ce8b3c78edb484489397bf82fea6b8d/images-logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/a63784f6824f45ecaf57c6923a5aafbc/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/ed4f6538d5a74cbe8853d4f1a8016cbd/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/ed4f6538d5a74cbe8853d4f1a8016cbd/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "6135dc776b30317231fa9811",
+      "_cls": "Product.Series",
+      "alias": "eva-rozhay",
+      "uid": "e6462ab1-3641-4faa-a190-f6d0d49aeb64",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/e6462ab1-3641-4faa-a190-f6d0d49aeb64",
+      "download_options": "/download/options/series/e6462ab1-3641-4faa-a190-f6d0d49aeb64",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4476467",
+      "rating_age": "18+",
+      "rating_kp": 6.2,
+      "rating_imdb": null,
+      "rating_start": 7.7,
+      "release_date": 1630908281000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/eva-rozhay",
+      "slug": "/series/eva-rozhay",
+      "web_url": "https://start.ru/watch/eva-rozhay",
+      "video_cover": "/stream/cover/series/e6462ab1-3641-4faa-a190-f6d0d49aeb64/cover.m3u8",
+      "trailer_src": "/stream/series/e6462ab1-3641-4faa-a190-f6d0d49aeb64/trailer.m3u8",
+      "badges": [
+        {
+          "id": "9c1bf26a-462b-42be-a43e-178c1a54feea",
+          "alias": "start-serial_pod_logo_89ebd09a-32b5-449b-8a4e-4b56615d359e",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Ева, рожай!",
+      "subtitle": null,
+      "quote": "От кого хочет женщина? Романтическая комедия с Еленой Подкаминской в главной роли",
+      "description": "У Евы совсем нет времени на личную жизнь — работа в танцевальной студии, помощь родным, самокопания. Однажды она узнает, что у бывшего появился ребенок, хотя, когда они были вместе, он был против детей. А это значит, пришло время заняться собственным счастьем — найти идеального мужчину и родить от него ребенка. Но как же это сложно, когда принцев много, а она — одна.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/8bf3cc6f7cd044b9a66572548a85de18/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/26fbffc8775c46cc968d82e14c00e1a2/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/38d8ee90efa244e8a54411533e7e4340/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/dae65025707f4f68b3ae544a9b56d7bd/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/1ab905c99f9a44f98b15d5d189ce5b18/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/c5a30405724c4600aaba7394f7f02da2/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/e7de70a45446457898b8ebc567719d9f/horizontal_15x"
+      }
+    },
+    {
+      "_id": "5fca2041916011adc91e1fbc",
+      "_cls": "Product.Series",
+      "alias": "konteyner",
+      "uid": "fb688a1a-a82e-49ad-93da-ea96534ae2d9",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/fb688a1a-a82e-49ad-93da-ea96534ae2d9",
+      "download_options": "/download/options/series/fb688a1a-a82e-49ad-93da-ea96534ae2d9",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "2000034",
+      "rating_age": "18+",
+      "rating_kp": 7.2,
+      "rating_imdb": 6.9,
+      "rating_start": 8.6,
+      "release_date": 1607069406000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/konteyner",
+      "slug": "/series/konteyner",
+      "web_url": "https://start.ru/watch/konteyner",
+      "video_cover": "/stream/cover/series/fb688a1a-a82e-49ad-93da-ea96534ae2d9/cover.m3u8",
+      "trailer_src": "/stream/series/fb688a1a-a82e-49ad-93da-ea96534ae2d9/trailer.m3u8",
+      "badges": [
+        {
+          "id": "95109469-ff1f-41b8-848b-4c5eea111aab",
+          "alias": "start-serial_pod_logo_d31603e6-cb51-45e3-8d68-9c3f64c9030f",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "Контейнер",
+      "subtitle": null,
+      "quote": "Оксана Акиньшина, Филипп Янковский и Мария Фомина в драме об изнанке суррогатного материнства",
+      "description": "Саша зарабатывает на жизнь при помощи суррогатного материнства. Она переезжает к заказчикам, чиновнику и его жене, которые видят в ней лишь «контейнер» для ребенка. Обитатели элитного поселка скрывают немало тайн, как и их гостья. После родов Саша должна решить, что делать с ребенком, когда один из заказчиков оказывается в тюрьме, а другая — за границей. Тревожится она и за собственную дочь, оборвавшую с ней всякие контакты. Будет ли шанс всё исправить у героев этой истории и воспользуются ли они им?",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/213fead9cac74cfeb03ccdce230b8489/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/534ce1ca42e24fad88cc97f05be5c022/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/97b6a0c0984c442f9e01ac102e68e016/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/e1be4ff1aa2749f2b87cad28340bf5d8/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/a1f674f22797450aa8fdb09e0879db52/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/92572efd94b64dadabaeeed062c83d19/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/bb74744eec2346fe93bcaef8217f02ea/horizontal_15x"
+      }
+    },
+    {
+      "_id": "611baf738cca4ae5ddbcb8a5",
+      "_cls": "Product.Series",
+      "alias": "syostry",
+      "uid": "c289d12e-71a2-4db4-b79c-7b13141a1f2e",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/c289d12e-71a2-4db4-b79c-7b13141a1f2e",
+      "download_options": "/download/options/series/c289d12e-71a2-4db4-b79c-7b13141a1f2e",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4527915",
+      "rating_age": "18+",
+      "rating_kp": 7.2,
+      "rating_imdb": 7.2,
+      "rating_start": 8.7,
+      "release_date": 1629193501000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/syostry",
+      "slug": "/series/syostry",
+      "web_url": "https://start.ru/watch/syostry",
+      "video_cover": "/stream/cover/series/c289d12e-71a2-4db4-b79c-7b13141a1f2e/cover.m3u8",
+      "trailer_src": "/stream/series/c289d12e-71a2-4db4-b79c-7b13141a1f2e/trailer.m3u8",
+      "badges": [
+        {
+          "id": "ea12bc23-97ec-4567-b095-427ac49cc6ee",
+          "alias": "start-serial_pod_logo_8170fc74-de33-4c0e-bc57-bbbed1b56d63",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Сестры",
+      "subtitle": null,
+      "quote": "Комедийный сериал о трёх девушках, получивших в наследство автосервис в Саратове ",
+      "description": "Семейный бизнес — это единственное, что объединяет совершенно разных сестёр: столичную бизнес-леди, витающую в облаках учительницу и парикмахершу, мечтающую о больших деньгах. Героини получают в наследство от отца автосервис и должны не только взять на себя руководство консервативным мужским коллективом, но и договориться друг с другом.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/adc19cb8da7440b7b07fafcd7b44bf41/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/04d679fda53f427491e0115d2b915791/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/5d908ab44bd341cfb586a26618731107/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/26fda669eceb400fbdb8dd8fd7de9d0a/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/f35977de51834d3ea3658dc7b6477b33/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/a8845384ee884b5f9356d4f0dc96ad40/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/8acea41d89de4581bf9c420640e5da61/horizontal_15x"
+      }
+    },
+    {
+      "_id": "5a12fac1ce9cac005aedb6f7",
+      "_cls": "Product.Series",
+      "alias": "roditeli",
+      "uid": "50a05e4f-5c94-4893-8e60-b4d7e315295f",
+      "year": 2020,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/50a05e4f-5c94-4893-8e60-b4d7e315295f",
+      "download_options": "/download/options/series/50a05e4f-5c94-4893-8e60-b4d7e315295f",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "734936",
+      "rating_age": "12+",
+      "rating_kp": 6,
+      "rating_imdb": 6.9,
+      "rating_start": 8.1,
+      "release_date": 1498856400000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/roditeli",
+      "slug": "/series/roditeli",
+      "web_url": "https://start.ru/watch/roditeli",
+      "video_cover": "/stream/cover/series/50a05e4f-5c94-4893-8e60-b4d7e315295f/cover.m3u8",
+      "trailer_src": "/stream/series/50a05e4f-5c94-4893-8e60-b4d7e315295f/trailer.m3u8",
+      "badges": [],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        },
+        {
+          "title": "Семейные",
+          "url": "/web/genres/family",
+          "slug": "/genres/family"
+        }
+      ],
+      "title": "Родители",
+      "subtitle": null,
+      "quote": "Маша и Саша готовы ко всем причудам троих сыновей, но не к их взрослению",
+      "description": "​​Маша и Саша — родители троих сыновей, каждому из которых требуется особый подход. Как бы быстро ни взрослели дети, в глазах мамы с папой они навсегда останутся непослушными мальчишками. Соколовы вместе переживают все трудности и с юмором выходят из любой ситуации.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/d8296c11ba9b4f448cee5ec774315104/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/d8296c11ba9b4f448cee5ec774315104/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/a79179057788435abc93cf7c78e593b6/images-packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/f73262c4513c4f7ebfec3a82fe09ffcb/images-logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(12.png,15,-0,0,15,15)/eef9de42a7f042569e0e1750d8bc297a/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(12.png,15,-0,0,15,15)/a79179057788435abc93cf7c78e593b6/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(12.png,15,-0,0,15,15)/a79179057788435abc93cf7c78e593b6/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "5e5cedd1b5358ba012da68dd",
+      "_cls": "Product.Movie",
+      "alias": "neposredstvenno-kaha-krutoy-i-eshchyo-krutee",
+      "uid": "0538053d-8b7d-48ab-8ba1-37892d444cbb",
+      "year": 2020,
+      "duration": 6491375,
+      "duration_minutes": "109 мин",
+      "budget": null,
+      "playback_options": "/stream/options/movie/0538053d-8b7d-48ab-8ba1-37892d444cbb",
+      "download_options": "/download/options/movie/0538053d-8b7d-48ab-8ba1-37892d444cbb",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1345717",
+      "rating_age": "18+",
+      "rating_kp": 4.3,
+      "rating_imdb": null,
+      "rating_start": 6.5,
+      "release_date": 1583137688000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/movie/neposredstvenno-kaha-krutoy-i-eshchyo-krutee",
+      "slug": "/movie/neposredstvenno-kaha-krutoy-i-eshchyo-krutee",
+      "web_url": "https://start.ru/watch/neposredstvenno-kaha-krutoy-i-eshchyo-krutee",
+      "video_cover": "/stream/cover/movie/0538053d-8b7d-48ab-8ba1-37892d444cbb/cover.m3u8",
+      "trailer_src": "/stream/movie/0538053d-8b7d-48ab-8ba1-37892d444cbb/trailer.m3u8",
+      "badges": [
+        {
+          "id": "99ee2fd1-ccc5-4620-9773-c1bc81c6f323",
+          "alias": "start-fil'm_pod_logo_9a3471f8-24a1-41af-a7ae-45ce4c756533",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/9680139e90b247ba807d07c63cf9842d/image_1x",
+          "name": "start-фильм под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Непосредственно Каха",
+      "subtitle": null,
+      "quote": "Комедия, основанная на одноимённом популярном веб-сериале о жизни и приключениях закадычных друзей из Сочи Кахи и Серго",
+      "description": "Фильм, собравший в кинотеатрах более 500 миллионов рублей. По сюжету, Каха, не самый фартовый сочинский парень, ради девушки должен обогнать на своей «копейке» BMW и забить на дружбу с Серго.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/f7ca21b6c8304341bdc23d827870c30a/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/f7ca21b6c8304341bdc23d827870c30a/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/85465e179fa240718dfaa1e459e2373b/images-packshot_15x"
+      },
+      "thumbnail": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/750x380/filters:quality(70)/92a3282be50a499abb7f4c9b5512669f/images-packshot_promo_thumb_15x"
+      },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/c076c6ca65774c7488c33b63dc5a0551/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b992b73697244ce6a09da3db2ed2c98c/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/85465e179fa240718dfaa1e459e2373b/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/85465e179fa240718dfaa1e459e2373b/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "5f80889b1098af9358c49c9e",
+      "_cls": "Product.Series",
+      "alias": "novenkiy-serial",
+      "uid": "f3b446e3-99ec-46c6-8ba6-76c3f70563b9",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/f3b446e3-99ec-46c6-8ba6-76c3f70563b9",
+      "download_options": "/download/options/series/f3b446e3-99ec-46c6-8ba6-76c3f70563b9",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1435388",
+      "rating_age": "18+",
+      "rating_kp": 5.9,
+      "rating_imdb": 4.4,
+      "rating_start": 8.1,
+      "release_date": 1602246723000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/novenkiy-serial",
+      "slug": "/series/novenkiy-serial",
+      "web_url": "https://start.ru/watch/novenkiy-serial",
+      "video_cover": "/stream/cover/series/f3b446e3-99ec-46c6-8ba6-76c3f70563b9/cover.m3u8",
+      "trailer_src": "/stream/series/f3b446e3-99ec-46c6-8ba6-76c3f70563b9/trailer.m3u8",
+      "badges": [],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Молодежные",
+          "url": "/web/genres/youth",
+          "slug": "/genres/youth"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "Новенький",
+      "subtitle": null,
+      "quote": "Есть ли жизнь после школы? Глеб Калюжный в главном молодежном сериале лета",
+      "description": "Во взрослом мире — все новенькие. Выпускной был недавно, а бывшие одноклассники уже по уши в недетских проблемах. Героев «Новенького» ждет новая история. Кто-то сливает в чат класса интимное видео первой красавицы школы. И это почти доводит ее до самоубийства. Почему в мире взрослых не так уж и классно? Все ответы — в сериале «Новенькие».",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/35ddc808c2c44ef9b37e3e67d7ca43b3/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/ade6b3ae071a4ce7824f0803a89288af/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/e156d694d18742ccbd0caa511a3b79c8/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/06177a4d63ed4bf4b728f62a57bb1ad9/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/90b904e5739646e59776dd77cb24bef0/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/7a8642c98bed4d78a2cc00100d42729d/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/a6d88462766f41d9b38455f4d7a4362e/horizontal_15x"
+      }
+    },
+    {
+      "_id": "5996cb6cb98482002e107d7e",
+      "_cls": "Product.Series",
+      "alias": "vne-igry",
+      "uid": "955da56b-ec92-4dbb-944c-205d358049f0",
+      "year": 2019,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/955da56b-ec92-4dbb-944c-205d358049f0",
+      "download_options": "/download/options/series/955da56b-ec92-4dbb-944c-205d358049f0",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1115041",
+      "rating_age": "18+",
+      "rating_kp": 7.6,
+      "rating_imdb": 6.6,
+      "rating_start": 8.9,
+      "release_date": 1503043877000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/vne-igry",
+      "slug": "/series/vne-igry",
+      "web_url": "https://start.ru/watch/vne-igry",
+      "video_cover": "/stream/cover/series/955da56b-ec92-4dbb-944c-205d358049f0/cover.m3u8",
+      "trailer_src": "/stream/series/955da56b-ec92-4dbb-944c-205d358049f0/trailer.m3u8",
+      "badges": [
+        {
+          "id": "b24a6466-7aeb-4561-b6ec-ac9a782e90cc",
+          "alias": "start-serial_pod_logo_de72c179-83e2-47e4-9e55-28e9b87ee323",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        },
+        {
+          "title": "Спорт",
+          "url": "/web/genres/sport",
+          "slug": "/genres/sport"
+        },
+        {
+          "title": "Молодежные",
+          "url": "/web/genres/youth",
+          "slug": "/genres/youth"
+        }
+      ],
+      "title": "Вне игры",
+      "subtitle": null,
+      "quote": "За кадром большого спорта. Первый честный сериал о нашем футболе",
+      "description": "Молодой футболист из Митино Денис Рыбальченко продолжает свой путь к мечте — карьере профессионального футболиста. Что ему может помешать? И проблемы в семье, и травма, и предвзятый тренер, и алчность футбольных агентов, и даже первая любовь.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/03daf1020f8d45c4ab869c0cd823730b/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/03daf1020f8d45c4ab869c0cd823730b/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/4111b529202047fa879bfb1ac7a67304/images-packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": "/images/unsafe/filters:quality(70)/170724da398248a0b050b90a4793fb59/images-logotype_1x",
+        "image_15x": "/images/unsafe/filters:quality(70)/07eb0ccd66e9460685e979fdb25c0bd4/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b0ab6218039943c38f0950b2ab5a81cf/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/4111b529202047fa879bfb1ac7a67304/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/4111b529202047fa879bfb1ac7a67304/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "62ff4760c3bc85001362674d",
+      "_cls": "Product.Series",
+      "alias": "topi",
+      "uid": "d689837f-6a84-4540-a7fb-395c33faa267",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": "",
+      "playback_options": "/stream/options/series/d689837f-6a84-4540-a7fb-395c33faa267",
+      "download_options": "/download/options/series/d689837f-6a84-4540-a7fb-395c33faa267",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": false,
+      "kinopoisk_id": "1355060",
+      "rating_age": "18+",
+      "rating_kp": 6.9,
+      "rating_imdb": 6.7,
+      "rating_start": 8.3,
+      "release_date": 1660897120625,
+      "quote_source": "",
+      "title_original": "",
+      "url": "/web/series/topi",
+      "slug": "/series/topi",
+      "web_url": "https://start.ru/watch/topi",
+      "video_cover": "/stream/cover/series/d689837f-6a84-4540-a7fb-395c33faa267/cover.m3u8",
+      "trailer_src": "/stream/series/d689837f-6a84-4540-a7fb-395c33faa267/trailer.m3u8",
+      "badges": [],
+      "genres": [
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        },
+        {
+          "title": "Мистика",
+          "url": "/web/genres/mystic",
+          "slug": "/genres/mystic"
+        },
+        {
+          "title": "Молодежные",
+          "url": "/web/genres/youth",
+          "slug": "/genres/youth"
+        }
+      ],
+      "title": "Топи",
+      "subtitle": "",
+      "quote": "Многослойный мистический триллер о русском коллективном бессознательном",
+      "description": "Денис Титов — молодой, но уставший от жизни лидер сверхпопулярного IT-стартапа. Узнав о том, что его болезнь неизлечима, он соглашается съездить в монастырь в полузаброшенной деревне Топи. Но место, куда он попадает, оказывается куда более странным, загадочным и опасным, чем его проблемы со здоровьем.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/af9087fc57c945eca12afa630077363e/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/8f789675ab24471d89d23400a8a2b13e/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/136f1f087d6a490f971f8dc5803f81ed/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/aff73ae481c048e88d726761831303e8/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/adc6d86858f24e8ab412fd088ee975c2/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/1500665f565b41258ea171a90b265f44/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/6995b0131b6f43dcab6135d22aa98db1/horizontal_15x"
+      }
+    },
+    {
+      "_id": "5fec69624399479a0065b793",
+      "_cls": "Product.Movie",
+      "alias": "podelniki",
+      "uid": "d5db6946-7e1b-4963-b49f-7b0aff4c5320",
+      "year": 2022,
+      "duration": 6275040,
+      "duration_minutes": "105 мин",
+      "budget": null,
+      "playback_options": "/stream/options/movie/d5db6946-7e1b-4963-b49f-7b0aff4c5320",
+      "download_options": "/download/options/movie/d5db6946-7e1b-4963-b49f-7b0aff4c5320",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4324950",
+      "rating_age": "18+",
+      "rating_kp": 6.9,
+      "rating_imdb": 6.1,
+      "rating_start": 7.9,
+      "release_date": 1609318166000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/movie/podelniki",
+      "slug": "/movie/podelniki",
+      "web_url": "https://start.ru/watch/podelniki",
+      "video_cover": "/stream/cover/movie/d5db6946-7e1b-4963-b49f-7b0aff4c5320/cover.m3u8",
+      "trailer_src": "/stream/movie/d5db6946-7e1b-4963-b49f-7b0aff4c5320/trailer.m3u8",
+      "badges": [
+        {
+          "id": "083e0d2c-97bf-4dfb-a275-71e9b7f2f635",
+          "alias": "start-fil'm_pod_logo_584d7d0b-176d-48d6-8cb4-3f164c3d6cc1",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/9680139e90b247ba807d07c63cf9842d/image_1x",
+          "name": "start-фильм под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "Подельники",
+      "subtitle": null,
+      "quote": "Юра Борисов, Павел Деревянко и Елизавета Янковская в драме на основе реальных событий",
+      "description": "Триллер на основе реальных событий с Юрой Борисовым, Елизаветой Янковской и Павлом Деревянко. Главный герой — деревенский мальчик Илья. Его отца убили, и преступник остался безнаказанным. Но окружающих это не волнует, и тогда ребёнок сам устраивает охоту за убийцей.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/7def7aeb3e944e558288e215f752e5c6/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/dc4ba26658f84ee6af37d857fcf31a16/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/d36cacb897dc43ada571e367b1e46d90/packshot_15x"
+      },
+      "thumbnail": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/750x380/filters:quality(70)/9dfc97fed230478092f201c99bb2db32/thumbnail_15x"
+      },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/8d939b06066f427689285196bd3636d2/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/7c5c0f46bdf24623805714a1548abf3f/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b0ab4598cc7b43a4968d970ecd504bc6/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/1c24b1b979f1448ea225c5aab1191521/horizontal_15x"
+      }
+    },
+    {
+      "_id": "59a5140ab98482002eb3a008",
+      "_cls": "Product.Series",
+      "alias": "otel-eleon",
+      "uid": "5bc49ade-5d8d-45c4-9eb3-fe0cf6ca0cef",
+      "year": 2016,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/5bc49ade-5d8d-45c4-9eb3-fe0cf6ca0cef",
+      "download_options": "/download/options/series/5bc49ade-5d8d-45c4-9eb3-fe0cf6ca0cef",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "988784",
+      "rating_age": "16+",
+      "rating_kp": 7.3,
+      "rating_imdb": 7.8,
+      "rating_start": 8.6,
+      "release_date": 1503979888000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/otel-eleon",
+      "slug": "/series/otel-eleon",
+      "web_url": "https://start.ru/watch/otel-eleon",
+      "video_cover": "/stream/cover/series/5bc49ade-5d8d-45c4-9eb3-fe0cf6ca0cef/cover.m3u8",
+      "trailer_src": "/stream/series/5bc49ade-5d8d-45c4-9eb3-fe0cf6ca0cef/trailer.m3u8",
+      "badges": [
+        {
+          "id": "cdcab659-66e1-40b9-a4b3-fa624b3de175",
+          "alias": "start-serial_pod_logo_5517b78b-d91c-4702-aa3d-d48399cb1545",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Отель Элеон",
+      "subtitle": null,
+      "quote": "Комедийный ситком о работниках бутик-отеля, продолжение сериала «Кухня»",
+      "description": "Комедийный сериал от создателей «Кухни» о безумных приключениях работников пятизвёздочного бутик-отеля и ресторана «Victor». Отель возглавляет Павел, непутёвый племянник прежней хозяйки. Он переманивает из Брюсселя Софию — суперменеджера, которая перевернёт здесь всё с ног на голову.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/53910638a3654f7785262813c32d5778/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/53910638a3654f7785262813c32d5778/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/edc88199aeed4954837d1d722b5c2c66/images-packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": "/images/unsafe/filters:quality(70)/5fb033bcaa3e4c028da27a483177016c/images-logotype_1x",
+        "image_15x": "/images/unsafe/filters:quality(70)/3d49be68407f44f0a0b0b27beb56095d/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(16.png,15,-0,0,15,15)/ec5e411f0bc3491b80891539e7890339/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/edc88199aeed4954837d1d722b5c2c66/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/edc88199aeed4954837d1d722b5c2c66/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "60f9284f904cb18f7f97c726",
+      "_cls": "Product.Series",
+      "alias": "samka-bogomola",
+      "uid": "9a19ffa7-431e-4c27-b66d-cdaa04454e00",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/9a19ffa7-431e-4c27-b66d-cdaa04454e00",
+      "download_options": "/download/options/series/9a19ffa7-431e-4c27-b66d-cdaa04454e00",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4445645",
+      "rating_age": "18+",
+      "rating_kp": 6.6,
+      "rating_imdb": 6.7,
+      "rating_start": 8.8,
+      "release_date": 1626930501000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/samka-bogomola",
+      "slug": "/series/samka-bogomola",
+      "web_url": "https://start.ru/watch/samka-bogomola",
+      "video_cover": "/stream/cover/series/9a19ffa7-431e-4c27-b66d-cdaa04454e00/cover.m3u8",
+      "trailer_src": "/stream/series/9a19ffa7-431e-4c27-b66d-cdaa04454e00/trailer.m3u8",
+      "badges": [
+        {
+          "id": "eb34b227-e198-44db-94df-c0b6855a373e",
+          "alias": "start-serial_pod_logo_c14f117d-6a1d-4df4-be79-52b62edfbd39",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Детективы",
+          "url": "/web/genres/detective",
+          "slug": "/genres/detective"
+        },
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "Самка богомола",
+      "subtitle": null,
+      "quote": "От создателей «Медиатора». Ирина Розанова в криминальном психологическом триллере о серийной убийце и её подражателе ",
+      "description": "Сериал от создателей «Медиатора». Серийная убийца Жанна Дронова, получившая прозвище «самка богомола», отбывает срок с тех пор, как созналась в серии леденящих кровь убийств. 20 лет назад она жестоко расправлялась с мужчинами — педофилами, насильниками и неверными мужьями. В наши дни у Жанны появляется подражатель, в точности копирующий совершённые ей убийства. Героиня предлагает полиции помощь и ставит два условия. Она покинет колонию на время расследования, а делом будет заниматься её сын, который давно вычеркнул мать из своей жизни.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/54f1003fddde4c3fa1c008462eece185/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/d5caaff7d6f04827a550fcf4f123ccc1/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/4247b448609f4937ad5bcbce641e5827/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/c9d71ffe582d4ae6889cc5dcfc2c9ce7/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/95ae5c991ace4fa28b01c273b2cc84f0/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/9052cd52870f4a03afd0d582e875c554/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/46190ff43cc54071980cfac8ff7487a6/horizontal_15x"
+      }
+    },
+    {
+      "_id": "59968f80b98482002e107bac",
+      "_cls": "Product.Series",
+      "alias": "byvshie",
+      "uid": "b3ec9bdd-f085-4e38-a243-7b7ccd8c7379",
+      "year": 2021,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/b3ec9bdd-f085-4e38-a243-7b7ccd8c7379",
+      "download_options": "/download/options/series/b3ec9bdd-f085-4e38-a243-7b7ccd8c7379",
+      "for_kids": false,
+      "hot_content": true,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "992490",
+      "rating_age": "18+",
+      "rating_kp": 7.4,
+      "rating_imdb": 7.1,
+      "rating_start": 8.7,
+      "release_date": 1503028477000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/byvshie",
+      "slug": "/series/byvshie",
+      "web_url": "https://start.ru/watch/byvshie",
+      "video_cover": "/stream/cover/series/b3ec9bdd-f085-4e38-a243-7b7ccd8c7379/cover.m3u8",
+      "trailer_src": "/stream/series/b3ec9bdd-f085-4e38-a243-7b7ccd8c7379/trailer.m3u8",
+      "badges": [
+        {
+          "id": "9b2f705f-fb7d-48de-9d45-231d84b7b82f",
+          "alias": "start-serial_pod_logo_90a2d059-884f-4c6e-a85d-5fef536fc12b",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Мелодрама",
+          "url": "/web/genres/melodrama",
+          "slug": "/genres/melodrama"
+        }
+      ],
+      "title": "Бывшие",
+      "subtitle": null,
+      "quote": "Актёрский тандем, который вызывает зависимость. Денис Шведов и Любовь Аксёнова в одном из самых популярных оригинальных сериалов START",
+      "description": "Яна выходит замуж за эксцентричного бизнесмена из Кемерово, чтобы спасти от тюрьмы отца. Илья становится психологом-консультантом Елены, писательницы и популярного коуча. Герои оказываются в точке, из которой нет пути назад, смогут ли они преодолеть зависимости и наладить свою жизнь?",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/c3ae10661e55456ba03a48b16b2b8a1c/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/c3ae10661e55456ba03a48b16b2b8a1c/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/b18f71bdc4ae4403a3aa5e7c71a8c60b/images-packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": "/images/unsafe/filters:quality(70)/1bf2e89d2d214b169584bd1ae8ac2238/images-logotype_1x",
+        "image_15x": "/images/unsafe/filters:quality(70)/22cdcd027b8a4d1da908c4bff0c5e9ef/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/8f3ed0e4b9c145e5a3e32035ba851ba0/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b18f71bdc4ae4403a3aa5e7c71a8c60b/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b18f71bdc4ae4403a3aa5e7c71a8c60b/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "5b5af07658c0b6002d135525",
+      "_cls": "Product.Series",
+      "alias": "ip-pirogova",
+      "uid": "be95c08d-50a5-462f-8c31-ff68109933df",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/be95c08d-50a5-462f-8c31-ff68109933df",
+      "download_options": "/download/options/series/be95c08d-50a5-462f-8c31-ff68109933df",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1195651",
+      "rating_age": "16+",
+      "rating_kp": 7.2,
+      "rating_imdb": 6.9,
+      "rating_start": 8.7,
+      "release_date": 1532675645000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/ip-pirogova",
+      "slug": "/series/ip-pirogova",
+      "web_url": "https://start.ru/watch/ip-pirogova",
+      "video_cover": "/stream/cover/series/be95c08d-50a5-462f-8c31-ff68109933df/cover.m3u8",
+      "trailer_src": "/stream/series/be95c08d-50a5-462f-8c31-ff68109933df/trailer.m3u8",
+      "badges": [
+        {
+          "id": "1521b253-4011-471d-8c98-0a9c542fee9c",
+          "alias": "start-serial_pod_logo_f41ba628-8d1d-45e1-9445-633e2c719378",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "ИП Пирогова",
+      "subtitle": null,
+      "quote": "В новом сезоне самого «вкусного» сериала на START Вера Пирогова борется за звание лучшего кондитера, чтобы вернуть бизнес и найти счастье",
+      "description": "После неудачной поездки в Петербург Пирогова осталась ни с чем: кафе закрыто, денег нет. Чтобы восстановить репутацию и вернуть дело всей жизни, Вера решает участвовать в шоу «Лучший кондитер России». На кону — не только три миллиона, но и счастье родных, у которых тоже хватает проблем. ",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/57b98a92269543a382631a7bb90cd34b/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/3153462425ce4ceea54a86188549fa9c/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/7eac521071b1433993149bdd19efbee3/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/3bb1a6801152452f84d4ae38b6555453/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(16.png,15,-0,0,15,15)/a57b8362f0c548208893117331af463d/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/7c589e4b98e34e16b7b28eebb33fc252/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/b00c9488f4c3444fb091fc37412f4154/horizontal_15x"
+      }
+    },
+    {
+      "_id": "5a85770b4e297b0031626b5d",
+      "_cls": "Product.Series",
+      "alias": "horoshiy-chelovek",
+      "uid": "a48db46b-0fba-467a-a3c3-c2c70d10ab64",
+      "year": 2020,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/a48db46b-0fba-467a-a3c3-c2c70d10ab64",
+      "download_options": "/download/options/series/a48db46b-0fba-467a-a3c3-c2c70d10ab64",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "1287347",
+      "rating_age": "18+",
+      "rating_kp": 6.8,
+      "rating_imdb": 6.6,
+      "rating_start": 8.4,
+      "release_date": 1518685342000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/horoshiy-chelovek",
+      "slug": "/series/horoshiy-chelovek",
+      "web_url": "https://start.ru/watch/horoshiy-chelovek",
+      "video_cover": "/stream/cover/series/a48db46b-0fba-467a-a3c3-c2c70d10ab64/cover.m3u8",
+      "trailer_src": "/stream/series/a48db46b-0fba-467a-a3c3-c2c70d10ab64/trailer.m3u8",
+      "badges": [
+        {
+          "id": "8f2182df-ac8c-4790-b20b-ba1be5f4a02e",
+          "alias": "start-serial_pod_logo_15b5f6a4-0767-45ca-889c-7c6c00df3037",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Триллер",
+          "url": "/web/genres/thriller",
+          "slug": "/genres/thriller"
+        }
+      ],
+      "title": "Хороший человек",
+      "subtitle": null,
+      "quote": "Оригинальный сериал START по мотивам истории самого известного и страшного маньяка России ",
+      "description": "Оригинальный киносериал — детективный триллер Константина Богомолова. По сюжету следователь из Москвы Евгения Ключевская приезжает в тихий городок Вознесенск, чтобы поймать серийного убийцу. Жители встречают её холодно: похоже, каждый прячет в шкафу по скелету.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/5621909c6692413ca27228598cac33d6/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/5621909c6692413ca27228598cac33d6/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/b6a025155c544ffda64ae0fc3e02c275/images-packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/530b7128163f42689d1024679fb173f8/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/bc469532c92046668b86f01d832e6f84/images-image_vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b6a025155c544ffda64ae0fc3e02c275/images-packshot_15x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/b6a025155c544ffda64ae0fc3e02c275/images-packshot_15x"
+      }
+    },
+    {
+      "_id": "6253f1cf6deeaa85ecbadad2",
+      "_cls": "Product.Series",
+      "alias": "postuchis-v-moyu-dver",
+      "uid": "07c30bf0-9cf8-4c9a-bb40-c3c2debdfb69",
+      "year": 2020,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/07c30bf0-9cf8-4c9a-bb40-c3c2debdfb69",
+      "download_options": "/download/options/series/07c30bf0-9cf8-4c9a-bb40-c3c2debdfb69",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": false,
+      "kinopoisk_id": "1392743",
+      "rating_age": "16+",
+      "rating_kp": 8.3,
+      "rating_imdb": 7.8,
+      "rating_start": 8.9,
+      "release_date": 1649655652000,
+      "quote_source": null,
+      "title_original": "Sen Çal Kapımı (You Knock on My Door)",
+      "url": "/web/series/postuchis-v-moyu-dver",
+      "slug": "/series/postuchis-v-moyu-dver",
+      "web_url": "https://start.ru/watch/postuchis-v-moyu-dver",
+      "video_cover": "/stream/cover/series/07c30bf0-9cf8-4c9a-bb40-c3c2debdfb69/cover.m3u8",
+      "trailer_src": "/stream/series/07c30bf0-9cf8-4c9a-bb40-c3c2debdfb69/trailer.m3u8",
+      "badges": [],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        },
+        {
+          "title": "Мелодрама",
+          "url": "/web/genres/melodrama",
+          "slug": "/genres/melodrama"
+        }
+      ],
+      "title": "Постучись в мою дверь",
+      "subtitle": null,
+      "quote": "Нашумевший турецкий сериал от создателей «Ранней пташки». Флористка и бизнесмен, которые ненавидят друг друга, вынуждены быть парой",
+      "description": "Бизнесмен Серкан Болат — главный виновник всех бед молодой флористки Эды Йылдыз. Из-за того, что он прекратил финансирование гранта, девушка лишилась возможности доучиться на ландшафтного дизайнера. Но судьба улыбается ей: Серкан сам обращается к Эде за помощью. Она получит грант, если… изобразит его невесту.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/f2326ea069104567b98d385e75c8e184/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/f2326ea069104567b98d385e75c8e184/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/811dbaa51c9b43ef9055f460f3bb5bfb/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/1995b0b9ce064a6ba2dfc419c61e368f/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(16.png,15,-0,0,15,15)/66ad34df3df34048b02ff1c7c98f380f/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/ad9994c3afb840c59e42290e959264c9/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(16.png,15,-0,0,15,15)/9ab49bedb5114ad4adbb11483e3adb95/horizontal_15x"
+      }
+    },
+    {
+      "_id": "59cbb27cb9848200313230e0",
+      "_cls": "Product.Series",
+      "alias": "besstydniki-lite",
+      "uid": "ae961f0f-daf6-4c59-8033-39d199eab43d",
+      "year": 2017,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/ae961f0f-daf6-4c59-8033-39d199eab43d",
+      "download_options": "/download/options/series/ae961f0f-daf6-4c59-8033-39d199eab43d",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "882264",
+      "rating_age": "18+",
+      "rating_kp": 4.8,
+      "rating_imdb": 5.2,
+      "rating_start": 7,
+      "release_date": 1506510772000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/besstydniki-lite",
+      "slug": "/series/besstydniki-lite",
+      "web_url": "https://start.ru/watch/besstydniki-lite",
+      "video_cover": "/stream/cover/series/ae961f0f-daf6-4c59-8033-39d199eab43d/cover.m3u8",
+      "trailer_src": "/stream/series/ae961f0f-daf6-4c59-8033-39d199eab43d/trailer.m3u8",
+      "badges": [
+        {
+          "id": "b7579e66-328e-4a19-9117-ff44ad61307f",
+          "alias": "start-serial_pod_logo_eca05d29-3b23-49a6-b9e1-572cb8ce7a41",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        },
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Бесстыдники",
+      "subtitle": null,
+      "quote": "Груздевы — самая бесстыжая российская семья",
+      "description": "Хотите посмотреть на необычную русскую семью? Познакомьтесь с семейством Груздевых: завсегдатаем местной рюмочной Гошей и пятью его детьми, которые вынуждены выживать в русских реалиях без поддержки взрослых, опираясь только на свои ум и смекалку. «Shameless» по-русски — это не скучно!",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/6ae014d6affe44bfa9136b004444b6d8/images-packshot_detailsbg_15x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/6ae014d6affe44bfa9136b004444b6d8/images-packshot_detailsbg_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/4b58faf3859f40b8ae480ef1ae64098f/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/48f786ae14c64cfe81c6db236c9fa898/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/4eec23eb328047d0b4c11328055792de/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/6c6d09971c05434390e955024feede88/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/bc7d158937a74dfd8f89944533fea0b6/horizontal_15x"
+      }
+    },
+    {
+      "_id": "611baf38ce3f968acdbcb8a7",
+      "_cls": "Product.Series",
+      "alias": "alisa-ne-mozhet-zhdat",
+      "uid": "462f00a2-537f-4a13-876b-deb36d695b13",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/462f00a2-537f-4a13-876b-deb36d695b13",
+      "download_options": "/download/options/series/462f00a2-537f-4a13-876b-deb36d695b13",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": true,
+      "kinopoisk_id": "4518843",
+      "rating_age": "18+",
+      "rating_kp": 7.5,
+      "rating_imdb": 6.2,
+      "rating_start": 8.5,
+      "release_date": 1629193462000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/alisa-ne-mozhet-zhdat",
+      "slug": "/series/alisa-ne-mozhet-zhdat",
+      "web_url": "https://start.ru/watch/alisa-ne-mozhet-zhdat",
+      "video_cover": "/stream/cover/series/462f00a2-537f-4a13-876b-deb36d695b13/cover.m3u8",
+      "trailer_src": "/stream/series/462f00a2-537f-4a13-876b-deb36d695b13/trailer.m3u8",
+      "badges": [
+        {
+          "id": "21c6b933-055c-467d-82fb-595761d8e068",
+          "alias": "start-serial_pod_logo_ba298660-a8b9-49f3-a8a7-175449a8ac6c",
+          "background_color": "",
+          "background_color_right": "",
+          "image_1x": "/images/unsafe/filters:quality(70)/b6c73c107afe4615b4b1bb583298a634/image_1x",
+          "name": "start-сериал под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "",
+          "text_right": "",
+          "text_color": "",
+          "text_color_right": "",
+          "type": "start",
+          "under_logo_position": false
+        }
+      ],
+      "genres": [
+        {
+          "title": "Драма",
+          "url": "/web/genres/drama",
+          "slug": "/genres/drama"
+        }
+      ],
+      "title": "Алиса не может ждать",
+      "subtitle": null,
+      "quote": "Алису ждет полная темнота — скоро она ослепнет. Девушка решает пожить по-настоящему, чего бы это ни стоило",
+      "description": "Юная Алиса всегда была на хорошем счету в школе, но сейчас мать не понимает, что с ней творится. Ей невдомек, что Алиса узнала секрет, который от нее давно скрывали. Скоро она ослепнет, еще немного — и полная темнота. Глупо тратить драгоценное время впустую. Чтобы успеть пожить по-настоящему, Алиса решает заработать легкие деньги и уехать в большой город.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/c6f26c043e12430287c1a00cb29675b2/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/bc9edeb6f7164eb2bdb793f45dc48735/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/bc4a1ed2b9194ae99c1c57f8ca956fea/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/2c6c78e5542e47279f757c07db8dd168/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/8b63d078f7634867bd87be6b4326aada/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/238dbefe37fc48948740c505769fdacd/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/6dd14affa1b849eca7e5e49ae97b1ed4/horizontal_15x"
+      }
+    },
+    {
+      "_id": "60f1f90e1dac213b98a6c9b5",
+      "_cls": "Product.Series",
+      "alias": "besprincipnye",
+      "uid": "d98849a6-7e5f-4c92-bd2c-f61703d0332c",
+      "year": 2022,
+      "duration": 0,
+      "duration_minutes": "",
+      "budget": null,
+      "playback_options": "/stream/options/series/d98849a6-7e5f-4c92-bd2c-f61703d0332c",
+      "download_options": "/download/options/series/d98849a6-7e5f-4c92-bd2c-f61703d0332c",
+      "for_kids": false,
+      "hot_content": false,
+      "in_subscription": true,
+      "is_disabled": false,
+      "is_free": false,
+      "is_maxmind_proxy_enabled": false,
+      "is_premier": false,
+      "is_preview": false,
+      "is_top250": false,
+      "downloadable": true,
+      "drm_encrypted": false,
+      "play_last_season": false,
+      "premium": false,
+      "standard": false,
+      "special": false,
+      "enabled_for_partner": false,
+      "kinopoisk_id": "1355059",
+      "rating_age": "18+",
+      "rating_kp": 7.6,
+      "rating_imdb": 6.5,
+      "rating_start": 8.3,
+      "release_date": 1626459240000,
+      "quote_source": null,
+      "title_original": "",
+      "url": "/web/series/besprincipnye",
+      "slug": "/series/besprincipnye",
+      "web_url": "https://start.ru/watch/besprincipnye",
+      "video_cover": "/stream/cover/series/d98849a6-7e5f-4c92-bd2c-f61703d0332c/cover.m3u8",
+      "trailer_src": "/stream/series/d98849a6-7e5f-4c92-bd2c-f61703d0332c/trailer.m3u8",
+      "badges": [
+        {
+          "id": "f24102ff-089e-4fe7-8428-631eea7e8331",
+          "alias": "vse_serii_pod_posterom_2d35d04e-e857-4972-9aac-73322a7a0c03",
+          "background_color": "#FF2800",
+          "background_color_right": "",
+          "image_1x": null,
+          "name": "все серии под постером",
+          "size": "medium",
+          "structure": "single",
+          "text": "ВСЕ СЕРИИ",
+          "text_right": "",
+          "text_color": "#FFFFFF",
+          "text_color_right": "",
+          "type": "badge",
+          "under_logo_position": false
+        },
+        {
+          "id": "04aa1da8-28c2-4f8f-9aa2-318685cd0323",
+          "alias": "vse_serii_pod_logo_774ba06b-4fb1-4f2a-9170-6fd990cac924",
+          "background_color": "#F2F2F2",
+          "background_color_right": "",
+          "image_1x": null,
+          "name": "все серии под лого",
+          "size": "medium",
+          "structure": "single",
+          "text": "ВСЕ СЕРИИ",
+          "text_right": "",
+          "text_color": "#FF2800",
+          "text_color_right": "",
+          "type": "badge",
+          "under_logo_position": true
+        }
+      ],
+      "genres": [
+        {
+          "title": "Комедии",
+          "url": "/web/genres/comedy",
+          "slug": "/genres/comedy"
+        }
+      ],
+      "title": "Беспринципные",
+      "subtitle": null,
+      "quote": "Комичные зарисовки о распущенных жителях престижных Патриарших прудов, снятые на основе рассказов Александра Цыпкина",
+      "description": "Богатые тоже попадают в нелепые ситуации. Жители элитного центра Москвы только на вид приличные люди: за кулисами роскоши они постоянно находят на свою голову приключения из-за похоти, лжи и избалованности.",
+      "background": {
+        "image_1x": "/images/unsafe/1280x720/filters:quality(70)/4e7bac40fa244df5b46792661318fded/background_1x",
+        "image_15x": "/images/unsafe/1920x1080/filters:quality(70)/6549d41198d447879fb76371161c0f37/background_15x"
+      },
+      "banner": { "image_1x": null, "image_15x": null },
+      "packshot": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/340x190/filters:quality(70)/c6469d5b426a42969736f580726bf21a/packshot_15x"
+      },
+      "thumbnail": { "image_1x": null, "image_15x": null },
+      "logotype": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/filters:quality(70)/4b972d0e41dd4e569ea8dd97ca70309a/logotype_15x"
+      },
+      "vertical": {
+        "image_1x": null,
+        "image_15x": "/images/unsafe/630x900/filters:quality(70):watermark(18.png,15,-0,0,15,15)/5fba22e1b6534713b5cbd5eb92f04c05/vertical_15x"
+      },
+      "horizontal": {
+        "image_1x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/a73481ca213141cc9b50ef6c3f3339d4/horizontal_1x",
+        "image_15x": "/images/unsafe/340x190/filters:quality(70):watermark(18.png,15,-0,0,15,15)/63dce87d8f924b8ba496479fec19e457/horizontal_15x"
+      }
+    }
+  ]
+]
