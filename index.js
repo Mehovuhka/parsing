@@ -88,7 +88,7 @@ const viju = createParser('viju')(async () => {
 const premier = createParser('premier')(async () => {
 	const requests = [];
 
-  // Методом научного тыка, за раз по 12 фильмов
+	// Методом научного тыка, за раз по 12 фильмов
 	const PAGE_COUNT = 163;
 	for (let page = 1; page <= PAGE_COUNT; page++) {
 		requests.push(
@@ -105,10 +105,46 @@ const premier = createParser('premier')(async () => {
 
 	const responses = await Promise.all(requests);
 
+	return responses.map((response) => response.data.results).flat(1);
+});
+
+const amediateka = createParser('amediateka')(async () => {
+	const types = ['movies', 'series'];
+
+	const requests = [];
+	const PAGE_COUNT = 4;
+	const PAGE_SIZE = 100;
+
+	for (const type of types) {
+		for (let multiplier = 0; multiplier < PAGE_COUNT; multiplier++) {
+			requests.push(
+				axios.get(`https://api.amediateka.tech/cms/content/${type}/`, {
+					params: {
+						apiKey: 'eeGaeliYah5veegh',
+						browserType: 'Firefox',
+						browserVersion: '112',
+						deviceId: '1d8af9c73b96da7b074533fe4a410535',
+						deviceModel: 'Firefox-112',
+						deviceType: 'desktopWeb',
+						limit: PAGE_SIZE,
+						offset: PAGE_SIZE * multiplier,
+						ordering: '-last_publish_date',
+						platform: 'amediaWeb',
+					},
+					headers: {
+						visitorId: '3d79b15b-14bf-4f75-bb78-d730d79f1679',
+					},
+				})
+			);
+		}
+	}
+
+	const responses = await Promise.all(requests);
 	const flatResults = responses
 		.map((response) => response.data.results)
 		.flat(1);
 	console.log(flatResults, flatResults.length);
+
 	return flatResults;
 });
 
@@ -119,6 +155,7 @@ try {
 	queries.push(officialKinopoisk());
 	queries.push(viju());
 	queries.push(premier());
+	queries.push(amediateka());
 
 	await Promise.all(queries);
 } catch (error) {
