@@ -148,6 +148,69 @@ const amediateka = createParser('amediateka')(async () => {
 	return flatResults;
 });
 
+const moretv = createParser('moretv')(async () => {
+	const categories = [
+		5, 44, 767, 1, 1225, 1969, 913, 1713, 1445, 1157, 1141, 1105, 718, 451, 75,
+	];
+	const requests = [];
+
+	// Довел до состояния, что я тебе ничего не дам, но данные так и не получилось
+	for (const category of categories) {
+		requests.push(
+			axios.get(`https://more.tv/api/v4/web/WidgetProjects/${category}`)
+		);
+
+		await sleep(150);
+	}
+
+	const responses = await Promise.all(requests);
+
+	const flatResponse = responses
+		.map((response) => response.data.data.items)
+		.flat(1);
+
+	console.log(flatResponse);
+	return flatResponse;
+});
+
+const kion = createParser('kion')(async () => {
+	const categories = [
+		340, 339, 290, 289, 293, 1132, 296, 307, 292, 300, 301, 299, 295, 305, 309,
+		55, 531, 291, 294, 297, 302, 312,
+	];
+
+	const requests = [];
+	const PAGE_COUNT = 7;
+	const PAGE_SIZE = 100;
+
+	for (const category of categories) {
+		for (let multiplier = 0; multiplier < PAGE_COUNT; multiplier++) {
+			requests.push(
+				axios.get(
+					`	https://kion.ru/api/mgw-hostess/shelves/glo_shelf_cm_${category}`,
+					{
+						params: {
+							offset: multiplier * PAGE_SIZE,
+							limit: PAGE_SIZE,
+						},
+						headers: {
+							'X-Device-Model': 'PC_Widevine_v3',
+							'X-Device-Id': 'fa5605d8-885f-4f7a-af8f-bd45251a2a65',
+							'X-App-Version': '3.14.5',
+						},
+					}
+				)
+			);
+
+			await sleep(150);
+		}
+	}
+
+	const responses = await Promise.all(requests);
+
+	return responses.map((response) => response.data.items).flat(1);
+});
+
 try {
 	const queries = [];
 	queries.push(unofficialKinopoisk());
@@ -156,6 +219,8 @@ try {
 	queries.push(viju());
 	queries.push(premier());
 	queries.push(amediateka());
+	queries.push(moretv());
+	queries.push(kion());
 
 	await Promise.all(queries);
 } catch (error) {
