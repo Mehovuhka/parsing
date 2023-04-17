@@ -6,6 +6,7 @@ import { createParser, sleep } from './lib.js';
 axios.defaults.headers = {
 	'X-API-KEY': 'f6e77863-4ca3-45d4-b72c-3a68b632fecd',
 };
+axios.defaults.withCredentials = true;
 
 const unofficialKinopoisk = createParser('unofficial-kinopoisk')(async () => {
 	const allFilms = [];
@@ -70,7 +71,7 @@ const viju = createParser('viju')(async () => {
 	requests.push(
 		axios.get('https://api.viju.ru/api/v1/content/movies', {
 			params: {
-				page,
+				page: 1,
 				per_page: 1000,
 			},
 			headers: {
@@ -84,12 +85,40 @@ const viju = createParser('viju')(async () => {
 	return responses.map((response) => response.data).flat(1);
 });
 
+const premier = createParser('premier')(async () => {
+	const requests = [];
+
+  // Методом научного тыка, за раз по 12 фильмов
+	const PAGE_COUNT = 163;
+	for (let page = 1; page <= PAGE_COUNT; page++) {
+		requests.push(
+			axios.get(`https://premier.one/uma-api/feeds/cardgroup/202`, {
+				params: {
+					page,
+				},
+			})
+		);
+
+		// Иначе прерывает запросы с кодом 429
+		await sleep(150);
+	}
+
+	const responses = await Promise.all(requests);
+
+	const flatResults = responses
+		.map((response) => response.data.results)
+		.flat(1);
+	console.log(flatResults, flatResults.length);
+	return flatResults;
+});
+
 try {
 	const queries = [];
 	queries.push(unofficialKinopoisk());
 	queries.push(start());
 	queries.push(officialKinopoisk());
-	queries.push(viju(true));
+	queries.push(viju());
+	queries.push(premier());
 
 	await Promise.all(queries);
 } catch (error) {

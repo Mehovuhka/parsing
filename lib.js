@@ -15,7 +15,7 @@ export const createParser = (name) => {
 				if (force) {
 					throw new Error();
 				}
-				await fs.access();
+				await fs.access(fileName);
 			} catch (error) {
 				const result = await func(fileName);
 
